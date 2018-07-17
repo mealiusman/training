@@ -1,3 +1,3 @@
 <?php
 
-print  'I am learning 2';
+print  'I am learning from master';
